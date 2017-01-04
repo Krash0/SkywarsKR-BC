@@ -1,0 +1,17 @@
+Arena:
+  #Segundos de espera para iniciar a partida quando atingir o minimo de jogadores.
+  Countdown: 20
+  #Executar esse comando quando um jogador ganhar uma partida.
+  Executar_comando: '/say O jogador @player ganhou uma partida de skywars.'
+  #Chat por sala, apenas os players que estão na partida podem ver as mensagens enviadas dentro da partida.
+  Chat:
+    Ativado: True
+    Formato: '&3@player &f> &b@msg'
+BungeeCord:
+  Lobby: 'Lobby'
+MySQL:
+  Enable: false
+  ServerName: 'localhost'
+  Database: 'skywarskr'
+  Username: 'root'
+  Password: ''

@@ -1,0 +1,10 @@
+Nome: Dragon
+Ativada: true
+Minimo_de_jogadores: 4
+Maximo_de_jogadores: 1
+Mundo: skywars
+Ilhas:
+  '1': world -852.5 31.0 -201.5
+Baus:
+  '1': world -859.0 14.0 -202.0
+  '2': world -854.0 6.0 -203.0

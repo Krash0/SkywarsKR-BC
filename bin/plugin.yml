@@ -1,0 +1,6 @@
+name: SkyWarsKRv2
+main: SkywarsKR.Main
+author: Krash0
+version: 2.0
+commands:
+  sw:
